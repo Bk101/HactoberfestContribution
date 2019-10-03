@@ -24,6 +24,7 @@
  | [Kunwar Ashutosh Singh]( https://github.com/kunwar1513115) | Software Engineer | Java, JS, Angular | B.Tech | 4 | 5th |
  | [Jeam Seijas](https://github.com/yotogami300) | Student | Frontend dev and ciberSecurity | B. Tech. | 3 | 6th |
  | [kunal bhatia](https://github.com/kunalbhatia18) | Student | Frontend dev and Graphic Designer | School CS | 18 | 7th |
+ | [Shaurya](https://github.com/Bk101) | Student | Web Developer| Btech | 5 | 8th |
 
  
  
